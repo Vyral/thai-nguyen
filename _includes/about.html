@@ -2,7 +2,7 @@
 		<div class="row">
 			<div class="col-lg-10 col-lg-offset-1">
 
-				<h4>About {{site.data.settings.client.name}}</h4>
+				<h4>About {{site.data.settings.client.brand}}</h4>
 			</div>
 		</div>
 	<div class="row">
@@ -12,29 +12,24 @@
 				<div class="client-image-container">
 					<img src="{{site.data.settings.images.client_headshot_path }}" alt="{{site.data.settings.client.company}}" class="client-image" />
 				</div><br />
+				Thai Nguyen<br>
+				Broker<br>
+				<a href="mailto:thai@thewgroupnw.com">thai@thewgroupnw.com</a><br>
+				<a href="tel:1-206-718-0237">206-718-0237</a>
 			</div>
 		<div class="col-lg-6 col-md-8 hidden-sm hidden-xs about-text">
 			{{site.data.settings.client.about_markdown | markdownify }}
 		</div>
-		<div class="col-lg-3">
-			<p class="contact-text">
-				<b>{{ site.data.settings.client.name }}</b><br />
-				{% if site.data.settings.client.license_number != null %}
-				{{ site.data.settings.client.license_number }}</br>
-				{% endif %}
-				{{ site.data.settings.client.brand }}<br />
-				{% if site.data.settings.client.brokerage != null %}
-				{{ site.data.settings.client.brokerage }}<br />
-				{% endif %}
-				{{ site.data.settings.client.address }}<br />
-				{% if site.data.settings.client.phone2 != null %}
-				{{ site.data.settings.client.phone_type }}: {{ site.data.settings.client.phone }}<br />
-				{{ site.data.settings.client.phone2_type }}: {{ site.data.settings.client.phone2 }}<br />
-				{% else %}
-				{{ site.data.settings.client.phone }}<br />
-				{% endif %}
-				<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
-				<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br />
+		<div class="col-lg-3 col-md-4 hidden-sm hidden-xs">
+
+				<div class="client-image-container">
+					<img src="{{site.data.settings.images.client_headshot_path2 }}" alt="David Huynh" class="client-image" />
+				</div><br />
+				David Huynh<br>
+				Partner<br>
+				<a href="mailto:david@thewgroupnw.com">david@thewgroupnw.com</a><br>
+				<a href="tel:1-206-354-0401">206-354-0401</a>
+			</div>
 			</p>
 		</div>
 	</div>
