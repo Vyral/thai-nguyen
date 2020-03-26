@@ -4,6 +4,7 @@ title: How the BRRRR Method Can Create Financial Freedom
 date: 2020-03-26 00:00:00
 tags:
   - Real Estate
+  - Investing
 excerpt: >-
   If you’ve never heard of the BRRRR method, today I’ll tell you how it can
   create financial freedom for you.
@@ -18,7 +19,9 @@ youtube_code: 9pkoVjx7eHY
 
 {% include youtube.html %}
 
-Would you like to have money deposited into your bank account while you’re not even working? With the BRRRR (buy, rehab, rent, refinance, repeat) method, you can make it happen. Here’s a quick rundown of each step of this method:
+<center><em>If you’ve never heard of the BRRRR method, today I’ll tell you how it can create financial freedom for you.</em></center>
+
+<br>Would you like to have money deposited into your bank account while you’re not even working? With the BRRRR (buy, rehab, rent, refinance, repeat) method, you can make it happen. Here’s a quick rundown of each step of this method:
 
 **Buy:** When you buy a property, make sure the numbers fit your budget. Buying low is very important, and you need to know how much it’ll cost you to renovate the property. You also need to know what you’ll generate in rent and what your after-repair value will be.
 
