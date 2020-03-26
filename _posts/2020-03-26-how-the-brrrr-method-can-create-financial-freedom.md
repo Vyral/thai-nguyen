@@ -19,7 +19,7 @@ youtube_code: 9pkoVjx7eHY
 
 {% include youtube.html %}
 
-<center><em>If you’ve never heard of the BRRRR method, today I’ll tell you how it can create financial freedom for you.</em></center>
+<center><em>If you&rsquo;ve never heard of the BRRRR method, today I&rsquo;ll tell you how it can create financial freedom for you.</em></center>
 
 <br>Would you like to have money deposited into your bank account while you’re not even working? With the BRRRR (buy, rehab, rent, refinance, repeat) method, you can make it happen. Here’s a quick rundown of each step of this method:
 
