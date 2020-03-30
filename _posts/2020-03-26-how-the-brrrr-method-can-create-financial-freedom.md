@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’ve never heard of the BRRRR method, today I’ll tell you how it can
   create financial freedom for you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Thai+Nguyen/How+the+BRRRR+Method+Can+Create+Financial+Freedom.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
