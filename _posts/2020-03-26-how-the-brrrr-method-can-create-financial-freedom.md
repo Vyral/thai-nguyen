@@ -4,7 +4,6 @@ title: How the BRRRR Method Can Create Financial Freedom
 date: 2020-03-26 00:00:00
 tags:
   - Real Estate
-  - Investing
 excerpt: >-
   If you’ve never heard of the BRRRR method, today I’ll tell you how it can
   create financial freedom for you.
@@ -14,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-5---thai-nguyen---yt.jpg
-youtube_code: 9pkoVjx7eHY
+youtube_code: YCb6I68KO44
 ---
 
 {% include youtube.html %}
