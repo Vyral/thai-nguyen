@@ -25,3 +25,5 @@ youtube_code: R8L3RDDdMlw
 0:20 - My family’s immigration from Vietnam/working my way through college<br>1:15 - How buying my first house started my investment journey<br>2:18 - Selling my first house and getting my real estate license<br>3:04 - Establishing my first rental property and sharing it with my tenants<br>4:41 - Buying two more rental properties and purchasing my dream home<br>5:51 - My passion is investment, and I’m here to help<br>6:20 - Wrapping things up
 
 If you have questions about this or any other real estate topic, or you are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.
+
+&nbsp;
