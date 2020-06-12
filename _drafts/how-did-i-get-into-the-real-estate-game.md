@@ -16,7 +16,9 @@ youtube_code: R8L3RDDdMlw
 
 {% include youtube.html %}
 
-Today I want to share the story of how real estate became my career and investing became my passion. My journey is a case study of why you don’t have to live paycheck to paycheck. My family experienced humble beginnings in the U.S. after immigrating from Vietnam when I was a child, but through hard work and determination, I was able to start my own business and buy my dream home. I’m ready to tell you how you can do the same.
+<center><em>Here’s the story of how I became a real estate agent.</em></center>
+
+<br>Today I want to share the story of how real estate became my career and investing became my passion. My journey is a case study of why you don’t have to live paycheck to paycheck. My family experienced humble beginnings in the U.S. after immigrating from Vietnam when I was a child, but through hard work and determination, I was able to start my own business and buy my dream home. I’m ready to tell you how you can do the same.
 
 Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:
 
