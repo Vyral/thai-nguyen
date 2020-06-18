@@ -5,7 +5,8 @@ date: 2020-06-12 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s the story of how I became a real estate agent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Thai+Nguyen/2020/How+Did+I+Get+Into+the+Real+Estate+Game_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
