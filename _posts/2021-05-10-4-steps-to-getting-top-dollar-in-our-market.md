@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Steps to Getting Top Dollar in Our Market
-date: 2021-05-10 17:46:59
+date: 2021-05-10 17:46:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: o-7fG0r9FUo
 ---
 {% include youtube.html %}
 
