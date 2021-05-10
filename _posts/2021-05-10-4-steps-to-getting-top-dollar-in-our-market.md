@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: There are four steps you must take to sell your home for top dollar.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Thai+Nguyen/2021/4+Steps+to+Getting+Top+Dollar+in+Our+Market.mp4
 pullquote: Less is more when selling a home.
 enclosure_type: video/mp4
 enclosure_time:
