@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/5-7---thai-nguyen---yt.jpg
-youtube_code: Phn-xZorWLI
+youtube_code: mqx8Bg1rkGQ
 ---
 {% include youtube.html %}
 
