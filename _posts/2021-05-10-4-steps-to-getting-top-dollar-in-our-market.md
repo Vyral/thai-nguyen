@@ -12,7 +12,7 @@ pullquote: Less is more when selling a home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/5-7---thai-nguyen---yt.jpg
+youtube_alternate_image: /uploads/untitled-design-7.png
 youtube_code: mqx8Bg1rkGQ
 ---
 {% include youtube.html %}
