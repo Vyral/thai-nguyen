@@ -11,13 +11,12 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/06-10-nguyen-youtube.jpg
+youtube_alternate_image: /uploads/untitled-design-6.png
 youtube_code: IMu87BqaqrE
 ---
-
 {% include youtube.html %}
 
-<center><em>Here&rsquo;s the story of how I became a real estate agent.</em></center>
+<center><em>Here’s the story of how I became a real estate agent.</em></center>
 
 <br>Today I want to share the story of how real estate became my career and investing became my passion. My journey is a case study of why you don’t have to live paycheck to paycheck. My family experienced humble beginnings in the U.S. after immigrating from Vietnam when I was a child, but through hard work and determination, I was able to start my own business and buy my dream home. I’m ready to tell you how you can do the same.
 
