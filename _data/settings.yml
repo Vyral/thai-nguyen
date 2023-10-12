@@ -33,13 +33,13 @@ client:
   brand: The W Group
   brokerage: Compass
   market: Washington
-  address: '305 108th Ave NE, Suite 200<br />Bellevue WA 98004-5708'
+  address: 305 108th Ave NE, Suite 200<br />Bellevue WA 98004-5708
   phone: (206) 718-0237
   phone_type:
   phone2:
   phone2_type:
   email: thai@thewgroupnw.com
-  url: 'https://www.compass.com/agents/thewgroup'
+  url: https://www.compass.com/agents/thewgroup
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
@@ -106,7 +106,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   client_headshot_path2: /img/headshot2.jpg
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /uploads/logo-with-slogan.png
   logo_width_number: 40
   hero_text: Washington Real Estate Video Blog
   hero_background_hex: '#999999'
@@ -130,8 +130,8 @@ buttons:
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: 'rgba(0, 0, 0, 0)'
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#000000'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
