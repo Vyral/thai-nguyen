@@ -16,13 +16,12 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-5---thai-nguyen---yt.jpg
+youtube_alternate_image: /uploads/untitled-design-4.png
 youtube_code: EzJHuIAJX70
 ---
-
 {% include youtube.html %}
 
-<center><em>If you need to complete a contingent home sale, there are three main steps you&rsquo;ll need to take.</em></center>
+<center><em>If you need to complete a contingent home sale, there are three main steps you’ll need to take.</em></center>
 
 <br>People always ask me what it takes to execute a contingent home sale. The good news is that this process—which involves selling your current home before buying your next—is simpler than you think. It only really requires three main steps:
 
