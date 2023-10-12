@@ -13,13 +13,12 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/3-5---thai-nguyen---yt.jpg
+youtube_alternate_image: /uploads/untitled-design-5.png
 youtube_code: YCb6I68KO44
 ---
-
 {% include youtube.html %}
 
-<center><em>If you&rsquo;ve never heard of the BRRRR method, today I&rsquo;ll tell you how it can create financial freedom for you.</em></center>
+<center><em>If you’ve never heard of the BRRRR method, today I’ll tell you how it can create financial freedom for you.</em></center>
 
 <br>Would you like to have money deposited into your bank account while you’re not even working? With the BRRRR (buy, rehab, rent, refinance, repeat) method, you can make it happen. Here’s a quick rundown of each step of this method:
 
@@ -31,6 +30,6 @@ youtube_code: YCb6I68KO44
 
 **Refinance:** Find the right lender to help you refinance and cash out.
 
-**Repeat:** After you pull your money out, you repeat the process\!
+**Repeat:** After you pull your money out, you repeat the process!
 
 If you have questions about this or any other real estate investment topic, don’t hesitate to reach out to me. I’d love to help you.
